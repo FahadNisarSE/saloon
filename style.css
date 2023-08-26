@@ -3,6 +3,7 @@
   src: url("/Webfonts/WOFF/Finnmark-Regular.woff") format("woff");
 }
 
-h1 {
-  font-family: "finnmark", sans-serif;
+@font-face {
+  font-family: "finnmark-italic";
+  src: url("/Webfonts/WOFF/Finnmark-Italic.woff") format("woff");
 }
